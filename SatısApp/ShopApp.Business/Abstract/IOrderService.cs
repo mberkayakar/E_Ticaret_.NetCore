@@ -4,15 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SatisApp.Entities
+namespace ShopApp.Business.Abstract
 {
-    public  class OrderLine
+    internal interface IOrderService
     {
-
-
-
-
     }
-
-
 }

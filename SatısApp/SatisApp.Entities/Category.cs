@@ -10,6 +10,11 @@ namespace SatisApp.Entities
     {
         public int Id { get; set; }
         public string Name { get; set; }
+
+        // Bir kategori için birden fazla ürün olarbilir 
+
+        public List<ProductCategory> ProductCategories { get; set; }
+
    
     }
 }

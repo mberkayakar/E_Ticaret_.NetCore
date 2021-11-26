@@ -1,0 +1,12 @@
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\SatısApp\SatisApp.Entities\bin\Debug\net6.0\SatisApp.Entities.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\SatısApp\SatisApp.Entities\bin\Debug\net6.0\SatisApp.Entities.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\SatısApp\SatisApp.Entities\bin\Debug\net6.0\ref\SatisApp.Entities.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\SatısApp\SatisApp.Entities\bin\Debug\net6.0\SatisApp.Entities.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\SatısApp\SatisApp.Entities\obj\Debug\net6.0\SatisApp.Entities.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\SatısApp\SatisApp.Entities\obj\Debug\net6.0\SatisApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\SatısApp\SatisApp.Entities\obj\Debug\net6.0\SatisApp.Entities.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\SatısApp\SatisApp.Entities\obj\Debug\net6.0\SatisApp.Entities.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\SatısApp\SatisApp.Entities\obj\Debug\net6.0\SatisApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\SatısApp\SatisApp.Entities\obj\Debug\net6.0\SatisApp.Entities.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\SatısApp\SatisApp.Entities\obj\Debug\net6.0\ref\SatisApp.Entities.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\SatısApp\SatisApp.Entities\obj\Debug\net6.0\SatisApp.Entities.pdb

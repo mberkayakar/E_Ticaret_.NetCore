@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d133ee11-008d-4261-a69f-e07d7807992f": {
+      "ProjectGuid": "d133ee11-008d-4261-a69f-e07d7807992f",
+      "DisplayName": "SatisApp.Entities",
+      "ColorIndex": 0
+    },
+    "895ec551-d9a4-43fb-96a6-6e39a3c67893": {
+      "ProjectGuid": "895ec551-d9a4-43fb-96a6-6e39a3c67893",
+      "DisplayName": "ShopApp.DataAccess",
+      "ColorIndex": 1
+    },
+    "c22e5b6d-24b0-4eb6-9a5d-bbd7deb85296": {
+      "ProjectGuid": "c22e5b6d-24b0-4eb6-9a5d-bbd7deb85296",
+      "DisplayName": "ShopApp.Business",
+      "ColorIndex": 2
+    },
+    "065792b9-99d3-4999-a8f1-d96e27813aef": {
+      "ProjectGuid": "065792b9-99d3-4999-a8f1-d96e27813aef",
+      "DisplayName": "SatisApp.WebUI",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

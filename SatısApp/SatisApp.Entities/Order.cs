@@ -8,5 +8,7 @@ namespace SatisApp.Entities
 {
     public class Order
     {
+
+
     }
 }

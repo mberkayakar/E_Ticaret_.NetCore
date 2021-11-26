@@ -18,7 +18,7 @@ namespace SatisApp.Entities
         // bir ürünün 1 kategorisi olacak Birden fazla da olabilir Zaten Bir kategoride birsürü de ürün olacak.
         // tablet düşün hem android hemde tablet kategorisinde yer alacaktır. 
         // bu sebeple CategoryProduct isimli bir adet sınıf oluşturuldu
-        public int CategoryId{ get; set; }
+        
 
         public List<ProductCategory> ProductCategories { get; set; }
 

@@ -1,0 +1,5 @@
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\SatısApp\ShopApp.DataAccess\obj\Debug\net6.0\ShopApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\SatısApp\ShopApp.DataAccess\obj\Debug\net6.0\ShopApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\SatısApp\ShopApp.DataAccess\obj\Debug\net6.0\ShopApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\SatısApp\ShopApp.DataAccess\obj\Debug\net6.0\ShopApp.DataAccess.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\SatısApp\ShopApp.DataAccess\obj\Debug\net6.0\ShopApp.DataAccess.csproj.CoreCompileInputs.cache
