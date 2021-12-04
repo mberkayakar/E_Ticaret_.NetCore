@@ -1,0 +1,60 @@
+﻿@model IEnumerable<SatisApp.Models.Product>
+@using System.Text.RegularExpressions;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+<div class="col-md-3">
+    <ul class="list-group">
+        <li class="list-group-item active">Cras justo odio</li>
+        <li class="list-group-item">Dapibus ac facilisis in</li>
+        <li class="list-group-item">Morbi leo risus</li>
+        <li class="list-group-item">Porta ac consectetur ac</li>
+        <li class="list-group-item">Vestibulum at eros</li>
+    </ul>
+</div>
+
+
+@foreach (var item in Model)
+{
+
+
+
+  
+        var cikti = Regex.Replace(item.Description, "<.*?>", String.Empty).Replace("&nbsp;", "");
+        if (cikti.Length > 100)
+            cikti = cikti.Substring(0,100);
+
+           
+   
+
+
+
+            <div class="col-lg-3 col-md-6">
+                <div class="row p-2">
+                    <div class="col-12  p-1" style="border:1px solid #008cba; border-radius: 5px;">
+                        <div class="card" style="border:0px;">
+                            <img src="@item.ImageUrl" class="card-img-top rounded" width="250" height="200" />
+                            <div class="pl-1">
+                                <p class="card-title text-primary"><b>@item.Title</b></p>
+
+
+
+                                <p class="card-title h5"> <b style="color:#2c3e50">@cikti</b></p>
+                            </div>
+
+                            <div style="padding-left:5px;">
+                                <p style="color:maroon"> Fiyat: <b class="">@item.Price.ToString("0.00")</b></p>
+                            </div>
+                        </div>
+                        <div>
+                            <a asp-action="Details" class="btn btn-primary form-control" asp-route-id="#">Detay</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+}

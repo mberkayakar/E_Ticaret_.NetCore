@@ -1,0 +1,34 @@
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\SatisApp.DataAccess.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\SatisApp.DataAccess.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\ref\SatisApp.DataAccess.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\SatisApp.DataAccess.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\SatisApp.Diger.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\SatisApp.Models.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\SatisApp.Diger.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\SatisApp.Models.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.csproj.CopyComplete
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\ref\SatisApp.DataAccess.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\SatisApp.DataAccess.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\SatisApp.DataAccess.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\ref\SatisApp.DataAccess.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\SatisApp.DataAccess.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\SatisApp.Diger.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\SatisApp.Models.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\SatisApp.Diger.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\SatisApp.Models.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.csproj.CopyComplete
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\ref\SatisApp.DataAccess.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.pdb

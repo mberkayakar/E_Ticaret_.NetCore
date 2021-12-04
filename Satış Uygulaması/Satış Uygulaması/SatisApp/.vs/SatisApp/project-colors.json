@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "376bc8b3-6f82-4190-9629-05f3aa7aa997": {
+      "ProjectGuid": "376bc8b3-6f82-4190-9629-05f3aa7aa997",
+      "DisplayName": "SatisApp",
+      "ColorIndex": 0
+    },
+    "6152b72d-b8ee-4601-8703-96057b341698": {
+      "ProjectGuid": "6152b72d-b8ee-4601-8703-96057b341698",
+      "DisplayName": "SatisApp.DataAccess",
+      "ColorIndex": 1
+    },
+    "ca29238e-e4b5-4ae7-a86d-d01c56cf5dea": {
+      "ProjectGuid": "ca29238e-e4b5-4ae7-a86d-d01c56cf5dea",
+      "DisplayName": "SatisApp.Models",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

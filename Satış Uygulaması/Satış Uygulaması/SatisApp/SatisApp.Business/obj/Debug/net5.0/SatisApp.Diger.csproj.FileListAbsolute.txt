@@ -1,0 +1,24 @@
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.Business\bin\Debug\net5.0\SatisApp.Diger.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.Business\bin\Debug\net5.0\SatisApp.Diger.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.Business\bin\Debug\net5.0\ref\SatisApp.Diger.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.Business\bin\Debug\net5.0\SatisApp.Diger.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.Business\obj\Debug\net5.0\SatisApp.Diger.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.Business\obj\Debug\net5.0\SatisApp.Diger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.Business\obj\Debug\net5.0\SatisApp.Diger.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.Business\obj\Debug\net5.0\SatisApp.Diger.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.Business\obj\Debug\net5.0\SatisApp.Diger.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.Business\obj\Debug\net5.0\SatisApp.Diger.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.Business\obj\Debug\net5.0\ref\SatisApp.Diger.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması\SatisApp\SatisApp.Business\obj\Debug\net5.0\SatisApp.Diger.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.Business\bin\Debug\net5.0\SatisApp.Diger.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.Business\bin\Debug\net5.0\SatisApp.Diger.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.Business\bin\Debug\net5.0\ref\SatisApp.Diger.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.Business\bin\Debug\net5.0\SatisApp.Diger.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.Business\obj\Debug\net5.0\SatisApp.Diger.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.Business\obj\Debug\net5.0\SatisApp.Diger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.Business\obj\Debug\net5.0\SatisApp.Diger.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.Business\obj\Debug\net5.0\SatisApp.Diger.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.Business\obj\Debug\net5.0\SatisApp.Diger.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.Business\obj\Debug\net5.0\SatisApp.Diger.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.Business\obj\Debug\net5.0\ref\SatisApp.Diger.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.Business\obj\Debug\net5.0\SatisApp.Diger.pdb

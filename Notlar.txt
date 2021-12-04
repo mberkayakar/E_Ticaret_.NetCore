@@ -1,5 +1,0 @@
-dotnet new classlib -o Satisapp.Entities
-
-(framework ismi)  / new komutu help vs de de kullanılıyor / katman acacağımız için entitiy katmanı oluşturuldu / -o / katmanismi verildi
-
-Proje Katmanlı Mimaride Geliştirildi . Bu sebeple ilk aşamada Classlib olarak tanımlanmıştır.  
