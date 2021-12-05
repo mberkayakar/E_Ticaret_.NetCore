@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <PackageReference Include="Google.Apis.Admin.Directory.directory_v1" Version="1.55.0.2511" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Facebook" Version="5.0.11" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Google" Version="5.0.11" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="5.0.12" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.12" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.12" />

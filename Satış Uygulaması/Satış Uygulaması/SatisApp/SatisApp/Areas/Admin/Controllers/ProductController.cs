@@ -9,10 +9,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.IO;
+using Microsoft.AspNetCore.Authorization;
+using SatisApp.Diger;
 
 namespace SatisApp.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles =SD.Role_Admin)]
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _UnitOfWork;

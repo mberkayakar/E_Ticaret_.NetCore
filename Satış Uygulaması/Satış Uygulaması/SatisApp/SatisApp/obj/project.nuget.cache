@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QfnhPa5bN3Xxo8FI24DTgbNCAm5aABHSZICu6qpuHGKsbAM2DqCOUZ/aNgoWCnIR+fj1LjjK9FXehvYVvxw6yg==",
+  "dgSpecHash": "inTiu5Q3mV0HjaxZ3BO6lNa+z32i9pjhuyhJzsxFEidvRr1f0QkUJ5ZJ8KF21qhfXU5Z93vIVbRtjFxdYcUYOA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp\\SatisApp.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,8 @@
     "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\microsoft.aspnetcore.authentication.facebook\\5.0.11\\microsoft.aspnetcore.authentication.facebook.5.0.11.nupkg.sha512",
+    "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\5.0.11\\microsoft.aspnetcore.authentication.google.5.0.11.nupkg.sha512",
     "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
     "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\microsoft.aspnetcore.authorization.policy\\2.2.0\\microsoft.aspnetcore.authorization.policy.2.2.0.nupkg.sha512",
     "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.12\\microsoft.aspnetcore.cryptography.internal.5.0.12.nupkg.sha512",

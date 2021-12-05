@@ -14,37 +14,45 @@ function loadDataTable() {
             { "data": "email", "width": "15%" },
             { "data": "role", "width": "15%" },
             {
-                "data": "id",
+                "data": { id: "id", lockoutEnd:"lockoutEnd"},
                 "render": function (data) {
+                    var today = new Date().getTime();
+                    var lockout = new Date(data.lockoutEnd).getTime();
+                    if (lockout>today) {
+
+                  
 
                     return `
                             <div class="text-center">
-                                <a href="/Admin/Product/Upsert/${data}" class="btn btn-success text-white" style="cursor:pointer">
-                                    <i class="fas fa-edit"></i> 
-                                </a>
-                                <a onclick=Delete("/Admin/Product/Delete/${data}") class="btn btn-danger text-white" style="cursor:pointer">
-                                    <i class="fas fa-trash-alt"></i> 
+
+                                <a onclick=LockUnLock('${data.id}') class="btn btn-danger text-white" style="cursor:pointer">
+                                    <i class="fas fa-lock-open"></i> AÇ 
                                 </a>
                             </div>
                            `;
-                }, "width": "20%"
+                    }
+                    else {
+                        return `
+                            <div class="text-center">
+
+                                <a onclick=LockUnLock('${data.id}') class="btn btn-danger text-white" style="cursor:pointer">
+                                    <i class="fas fa-lock"></i> Kapat 
+                                </a>
+                            </div>
+                           `;
+                    }
+                }, "width": "25%"
             }
         ]
     });
 }
-function Delete(url) {
-    swal({
-        title: "Bu kaydı silmek istediğinizden emin misiniz?",
-        text: "bu kaydı geri alamazsınız",
-        icon: "warning",
-        buttons: true,
-        dangerMode: true
-    }).then((willDelete) => {
-
-        if (willDelete) {
+function LockUnLock(id) {
+     
             $.ajax({
-                type: "DELETE",
-                url: url,
+                type: "POST",
+                url: '/Admin/User/LockUnLock',
+                data: JSON.stringify(id),
+                contentType:"application/json",
                 success: function (data) {
                     if (data.success) {
                         toastr.success(data.message);
@@ -55,8 +63,7 @@ function Delete(url) {
                     }
                 }
             })
-        }
-    })
+ 
 }
 
 

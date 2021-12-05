@@ -44,6 +44,20 @@ namespace SatisApp
             services.AddScoped<IUnitOfWork, UnitOfWork>(); 
             services.AddControllersWithViews().AddRazorRuntimeCompilation(); // addrazorruntime çalýþan bir projeyi canlý yayýndayken sürekli build etmeye yarar.
             services.AddRazorPages();
+
+            services.ConfigureApplicationCookie(options =>
+            {
+                options.LoginPath = $"/Identity/Account/login";
+                options.LogoutPath = $"/Identity/Account/logout";
+                options.AccessDeniedPath = $"/Identity/Account/AccessDenied";
+            });
+
+            services.AddAuthentication().AddGoogle(option =>
+            {
+                option.ClientId = "994513354643-r19jrneleb0d2hdnug1ucre7id91puu2.apps.googleusercontent.com";
+                option.ClientSecret = "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";
+            });
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
