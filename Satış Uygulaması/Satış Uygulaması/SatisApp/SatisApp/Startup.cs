@@ -11,7 +11,7 @@ using Microsoft.Extensions.Hosting;
 using SatisApp.DataAccess.Data;
 using SatisApp.DataAccess.Repository;
 using SatisApp.DataAccess.Repository.IRepository;
-using SatisApp.Diger;
+using SatisApp.Email;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -39,6 +39,7 @@ namespace SatisApp
 
             services.AddIdentity<IdentityUser,IdentityRole>().AddDefaultTokenProviders().AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddSingleton<IEmailSender, EmailSender>();
+            services.Configure<EmailOptions>(Configuration);
             
             
             services.AddScoped<IUnitOfWork, UnitOfWork>(); 
