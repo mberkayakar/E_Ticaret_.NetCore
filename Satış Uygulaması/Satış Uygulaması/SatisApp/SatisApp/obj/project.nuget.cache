@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YMPawQLS5IY6q7OlFGX6wmYFN4yUfNvWlWGnAKECN3wo/4BKkfimwV0tcWVCQYgDIPvNmajGEi0+eyC9PlZFIw==",
+  "dgSpecHash": "/+u6qn5klzPU3z93z36wvvad8xPOkOUxI8rK4mx2pl7R5bsq7Nl24uZcSkaKGV659pSQyuQ04WwYt/BwNQOc7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp\\SatisApp.csproj",
+  "projectFilePath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp\\SatisApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

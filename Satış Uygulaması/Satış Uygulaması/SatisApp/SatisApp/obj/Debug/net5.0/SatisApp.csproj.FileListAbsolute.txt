@@ -951,3 +951,15 @@ C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulamas�
 C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
 C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp\obj\Debug\net5.0\SatisApp.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp\obj\Debug\net5.0\SatisApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp\obj\Debug\net5.0\SatisApp.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp\obj\Debug\net5.0\SatisApp.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp\obj\Debug\net5.0\SatisApp.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp\obj\Debug\net5.0\SatisApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp\obj\Debug\net5.0\SatisApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp\obj\Debug\net5.0\SatisApp.RazorAssemblyInfo.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp\obj\Debug\net5.0\SatisApp.RazorAssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp\obj\Debug\net5.0\SatisApp.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp\obj\Debug\net5.0\ref\SatisApp.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp\obj\Debug\net5.0\SatisApp.pdb

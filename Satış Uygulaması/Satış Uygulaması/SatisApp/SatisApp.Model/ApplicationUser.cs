@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace SatisApp.Models
 {
-    public class AppliscationUser : IdentityUser
+    public class ApplicationUser : IdentityUser
     {
         [Required]
         public string Name { get; set; }

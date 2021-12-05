@@ -22,3 +22,15 @@ C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulamas�
 C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.Model\obj\Debug\net5.0\SatisApp.Models.dll
 C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.Model\obj\Debug\net5.0\ref\SatisApp.Models.dll
 C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.Model\obj\Debug\net5.0\SatisApp.Models.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.Model\bin\Debug\net5.0\SatisApp.Models.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.Model\bin\Debug\net5.0\SatisApp.Models.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.Model\bin\Debug\net5.0\ref\SatisApp.Models.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.Model\bin\Debug\net5.0\SatisApp.Models.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.Model\obj\Debug\net5.0\SatisApp.Models.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.Model\obj\Debug\net5.0\SatisApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.Model\obj\Debug\net5.0\SatisApp.Models.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.Model\obj\Debug\net5.0\SatisApp.Models.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.Model\obj\Debug\net5.0\SatisApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.Model\obj\Debug\net5.0\SatisApp.Models.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.Model\obj\Debug\net5.0\ref\SatisApp.Models.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.Model\obj\Debug\net5.0\SatisApp.Models.pdb

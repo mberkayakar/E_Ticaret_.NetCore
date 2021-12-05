@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj": {}
+    "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj": {
+    "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj",
         "projectName": "SatisApp.Diger",
-        "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj",
+        "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj",
         "packagesPath": "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\obj\\",
+        "outputPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

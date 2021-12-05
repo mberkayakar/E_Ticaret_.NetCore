@@ -32,3 +32,11 @@ C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulamas�
 C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.dll
 C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\ref\SatisApp.DataAccess.dll
 C:\Users\Muhammed Berkay AKAR\Desktop\Satış Uygulaması (2)\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\ref\SatisApp.DataAccess.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.pdb

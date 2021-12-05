@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp\\SatisApp.csproj": {}
+    "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp\\SatisApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj": {
+    "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj",
         "projectName": "SatisApp.Diger",
-        "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj",
+        "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj",
         "packagesPath": "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\obj\\",
+        "outputPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -62,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.DataAccess\\SatisApp.DataAccess.csproj": {
+    "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.DataAccess\\SatisApp.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.DataAccess\\SatisApp.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.DataAccess\\SatisApp.DataAccess.csproj",
         "projectName": "SatisApp.DataAccess",
-        "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.DataAccess\\SatisApp.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.DataAccess\\SatisApp.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,11 +96,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj": {
-                "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj"
+              "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj": {
+                "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj"
               },
-              "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.Model\\SatisApp.Models.csproj": {
-                "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.Model\\SatisApp.Models.csproj"
+              "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.Model\\SatisApp.Models.csproj": {
+                "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.Model\\SatisApp.Models.csproj"
               }
             }
           }
@@ -145,14 +151,14 @@
         }
       }
     },
-    "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.Model\\SatisApp.Models.csproj": {
+    "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.Model\\SatisApp.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.Model\\SatisApp.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.Model\\SatisApp.Models.csproj",
         "projectName": "SatisApp.Models",
-        "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.Model\\SatisApp.Models.csproj",
+        "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.Model\\SatisApp.Models.csproj",
         "packagesPath": "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.Model\\obj\\",
+        "outputPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -213,14 +219,14 @@
         }
       }
     },
-    "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp\\SatisApp.csproj": {
+    "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp\\SatisApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp\\SatisApp.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp\\SatisApp.csproj",
         "projectName": "SatisApp",
-        "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp\\SatisApp.csproj",
+        "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp\\SatisApp.csproj",
         "packagesPath": "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp\\obj\\",
+        "outputPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -241,14 +247,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj": {
-                "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj"
+              "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj": {
+                "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.Business\\SatisApp.Diger.csproj"
               },
-              "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.DataAccess\\SatisApp.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.DataAccess\\SatisApp.DataAccess.csproj"
+              "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.DataAccess\\SatisApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.DataAccess\\SatisApp.DataAccess.csproj"
               },
-              "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.Model\\SatisApp.Models.csproj": {
-                "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\Satış Uygulaması (2)\\Satış Uygulaması\\SatisApp\\SatisApp.Model\\SatisApp.Models.csproj"
+              "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.Model\\SatisApp.Models.csproj": {
+                "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\E_Ticaret_.NetCore\\Satış Uygulaması\\Satış Uygulaması\\SatisApp\\SatisApp.Model\\SatisApp.Models.csproj"
               }
             }
           }

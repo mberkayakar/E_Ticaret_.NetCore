@@ -15,7 +15,12 @@
       "ProjectGuid": "ca29238e-e4b5-4ae7-a86d-d01c56cf5dea",
       "DisplayName": "SatisApp.Models",
       "ColorIndex": 2
+    },
+    "49e3adff-2950-4cdd-82b0-0491c71c62a6": {
+      "ProjectGuid": "49e3adff-2950-4cdd-82b0-0491c71c62a6",
+      "DisplayName": "SatisApp.Diger",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
