@@ -11,6 +11,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
 using SatisApp.DataAccess.Repository;
@@ -83,6 +84,7 @@ namespace SatisApp.Areas.Identity.Pages.Account
             public string PostaKodu { get; set; }
             public string TelefonNo { get; set; }
             public string Role { get; set; }
+            public IEnumerable<SelectListItem> RoleList { get; set; }
 
 
 
@@ -92,6 +94,7 @@ namespace SatisApp.Areas.Identity.Pages.Account
         public async Task OnGetAsync(string returnUrl = null)
         {
             ReturnUrl = returnUrl;
+            Input = new InputModel() { RoleList=_roleManager.Roles.Where(i=> i.Name!=SD.Role_Birey).Select(x => x.Name).Select(u=> new SelectListItem { Text=u,Value = u})};
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
         }
 
@@ -124,8 +127,15 @@ namespace SatisApp.Areas.Identity.Pages.Account
                         await _roleManager.CreateAsync(new IdentityRole(SD.Role_User));
                     }
 
-                    await _userManager.AddToRoleAsync(user, SD.Role_Admin);
+                    if (user.Role == null )
+                    {
+                        await _userManager.AddToRoleAsync(user,SD.Role_User);
 
+                    }
+                    else
+                    {
+                        await _userManager.AddToRoleAsync(user, user.Role);
+                    }
                     //var code = await _userManager.GenerateEmailConfirmationTokenAsync(user);
                     //code = WebEncoders.Base64UrlEncode(Encoding.UTF8.GetBytes(code));
                     //var callbackUrl = Url.Page(
@@ -143,8 +153,18 @@ namespace SatisApp.Areas.Identity.Pages.Account
                     }
                     else
                     {
+                        if (user.Role==null)
+                        {
+
+                        
                         await _signInManager.SignInAsync(user, isPersistent: false);
                         return LocalRedirect(returnUrl);
+                        }
+                        else
+                        {
+                            return RedirectToAction("Index", "User", new { Area = "Admin" });
+                        }
+
                     }
                 }
                 foreach (var error in result.Errors)

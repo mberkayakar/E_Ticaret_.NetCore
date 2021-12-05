@@ -269,6 +269,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Google.Apis.Admin.Directory.directory_v1": {
+              "target": "Package",
+              "version": "[1.55.0.2511, )"
+            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.12, )"

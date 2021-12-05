@@ -40,3 +40,12 @@ C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Sat
 C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.dll
 C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\ref\SatisApp.DataAccess.dll
 C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\SatisApp.DataAccess.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\SatisApp.DataAccess.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\ref\SatisApp.DataAccess.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\SatisApp.DataAccess.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\SatisApp.Diger.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\SatisApp.Models.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\SatisApp.Diger.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.DataAccess\bin\Debug\net5.0\SatisApp.Models.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\E_Ticaret_.NetCore\Satış Uygulaması\Satış Uygulaması\SatisApp\SatisApp.DataAccess\obj\Debug\net5.0\SatisApp.DataAccess.csproj.CopyComplete

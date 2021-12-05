@@ -17,6 +17,6 @@ namespace SatisApp.DataAccess.Data
 
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products{ get; set; } // veri tabanında Product isimli tablo oluşacaktır 
-        public DbSet<AppliscationUser> AppliscationUsers { get; set; }  
+        public DbSet<ApplicationUser> ApplicationUsers { get; set; }  
     }
 }
